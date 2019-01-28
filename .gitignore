@@ -1,0 +1,12 @@
+node_modules/**/*
+build/*
+.expo/*
+.expo-source/*
+.idea/*
+android/*
+ios/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
